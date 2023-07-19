@@ -18,10 +18,13 @@ Provide REST APIs to downstream consumers for adding, configuring, editing, and 
 
 The application provides the following REST APIs for managing plots of land:
 
-POST /plots: Add a new plot of land
-PUT /plots/{id}: Configure a plot of land with irrigation time slots and water requirements
-PATCH /plots/{id}: Edit the configuration of a plot of land
-GET /plots: List all plots of land and their details
+POST /plots: Add a new plot of land.
+
+PUT /plots/{id}: Configure a plot of land with irrigation time slots and water requirements.
+
+PATCH /plots/{id}: Edit the configuration of a plot of land.
+
+GET /plots: List all plots of land and their details.
 
 # Conclusion
 
