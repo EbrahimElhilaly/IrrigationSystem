@@ -6,9 +6,12 @@ This is a Spring Boot application that implements an irrigation system for agric
 
 The system is designed to fulfill the following requirements:
 
-Maintain and configure plots of land with irrigation time slots and water requirements
-Automatically irrigate the lands based on the configured time slots and water requirements
+Maintain and configure plots of land with irrigation time slots and water requirements.
+
+Automatically irrigate the lands based on the configured time slots and water requirements.
+
 Provide REST APIs to downstream consumers for adding, configuring, editing, and listing plots of land.
+
 
 
 # Usage
